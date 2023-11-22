@@ -5,17 +5,22 @@ Embark on a deep dive into computer networks and guided media through my project
 
 Here's a glimpse into the guided media categories I've covered:
 
-Twisted Pair Cables (UTP - UnShielded Twisted Pair)
+-: Twisted Pair Cables (UTP - UnShielded Twisted Pair) :-
 
-RJ45 (Straight Through and Crossover Connection)
-RJ11 (Phone Line Cables)
-Fiber Optics Cable
+  -> RJ45 (Straight Through and Crossover Connection)
+  
+  -> RJ11 (Phone Line Cables)
 
-SMF-SC (Single Mode Optical Fiber - Standard/Subscriber Connector)
-Coaxial Cable
+-: Fiber Optics Cable :-
 
-RG6 with F6T Connector (Used for TV, Internet Supply, etc.)
-Magnetic Media
+  -> SMF-SC (Single Mode Optical Fiber - Standard/Subscriber Connector)
+  
+-: Coaxial Cable :-
 
-CD (700 MB)
-DVD (4.7 GB)
+  -> RG6 with F6T Connector (Used for TV, Internet Supply, etc.)
+
+-: Magnetic Media :-
+
+  -> CD (700 MB)
+  
+  -> DVD (4.7 GB)
