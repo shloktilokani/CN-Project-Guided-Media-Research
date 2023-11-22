@@ -5,7 +5,7 @@ Embark on a deep dive into computer networks and guided media through my project
 
 Here's a glimpse into the guided media categories I've covered:
 
--: Twisted Pair Cables (UTP - UnShielded Twisted Pair) :-
+    -: Twisted Pair Cables (UTP - UnShielded Twisted Pair) :-
 
     -> RJ45 (Straight Through and Crossover Connection)
   
@@ -13,9 +13,9 @@ Here's a glimpse into the guided media categories I've covered:
 
 -: Fiber Optics Cable :-
 
-    -> SMF-SC (Single Mode Optical Fiber - Standard/Subscriber Connector)
+-> SMF-SC (Single Mode Optical Fiber - Standard/Subscriber Connector)
   
--: Coaxial Cable :-
+    -: Coaxial Cable :-
 
     -> RG6 with F6T Connector (Used for TV, Internet Supply, etc.)
 
