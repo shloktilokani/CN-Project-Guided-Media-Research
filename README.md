@@ -13,7 +13,7 @@ Here's a glimpse into the guided media categories I've covered:
 
 -: Fiber Optics Cable :-
 
--> SMF-SC (Single Mode Optical Fiber - Standard/Subscriber Connector)
+  -> SMF-SC (Single Mode Optical Fiber - Standard/Subscriber Connector)
   
     -: Coaxial Cable :-
 
@@ -21,6 +21,6 @@ Here's a glimpse into the guided media categories I've covered:
 
 -: Magnetic Media :-
 
-    -> CD (700 MB)
+  -> CD (700 MB)
   
-    -> DVD (4.7 GB)
+  -> DVD (4.7 GB)
